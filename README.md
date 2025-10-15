@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/phakhin.nongthong.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phakhin.nongthong.13" height="30" width="40" /></a>
-<a href="https://instagram.com/ph4kh1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ph4kh1n" height="30" width="40" /></a>
+<a href="https://fb.com/phakhin.nongthong.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phakhin.nongthong.10" height="30" width="40" /></a>
+<a href="https://instagram.com/_phxknn.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ph4kh1n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
