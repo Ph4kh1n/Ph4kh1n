@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phakhin</h1>
-<h3 align="center">Just a little guy here.</h3>
 
 - 🔭 I’m currently working on [Website](https://github.com/Ph4kh1n/ph4kh1n.github.io)
 
